@@ -56,15 +56,15 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 2. **Total Sales Quantity**: 2M units sold 📦
    - The total units sold give an idea of the sales volume and market reach. A high sales quantity coupled with high revenue indicates healthy sales and effective product distribution. This metric helps in understanding the volume of transactions and overall market demand.
-   ![Total Sales Quantity Visualization](Overview.png)
+   ![Total Sales Quantity Visualization](images/Overview.png)
 
 3. **Total Profit Margin**: ₹24.7M 💰
    - This shows the total profit margin, highlighting the profitability of operations. A positive profit margin suggests effective cost management and pricing strategies. Monitoring profit margins helps in ensuring the business remains financially healthy.
-   ![Total Profit Margin Visualization](Key.png)
+   ![Total Profit Margin Visualization](images/Key.png)
 
 4. **Revenue Contribution by Delhi NCR**: 52.8% 🏙️
    - With a contribution of 52.8%, Delhi NCR is the most significant market. This insight suggests that marketing and sales efforts in this region are paying off and should be continued or even increased. Focusing on high-performing markets can drive substantial revenue growth.
-   ![Revenue Contribution % by Market](RevenuebyMarket.png)
+   ![Revenue Contribution % by Market](images/RevenuebyMarket.png)
 
 5. **Revenue Contribution by Mumbai**: 15.2% 🌆
    - Mumbai is the second-highest market, contributing 15.2% to the total revenue. This market's performance underscores its importance and potential for further growth. Analyzing regional performance helps in strategic decision-making for market expansion.
@@ -83,7 +83,7 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 10. **Top Customer - Electricalsara Stores**: ₹41.33M revenue 🏅
     - Electricalsara Stores is the highest revenue-generating customer. Fostering strong relationships with top customers can lead to sustained revenue growth. Implementing loyalty programs and personalized marketing can enhance customer retention and satisfaction.
-    ![Top 10 Customers by Revenue](TopCust.png)
+    ![Top 10 Customers by Revenue](images/TopCust.png)
 
 11. **Top Customer - Electricalslytical**: ₹4.96M revenue 🏆
     - Electricalslytical significantly contributes to the revenue, making them a valuable customer. Strategies to increase sales to top customers include offering exclusive deals and improving customer service.
@@ -105,14 +105,14 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 17. **Revenue from Brick & Mortar**: ₹745M 🏢
     - Brick & Mortar stores generate a significant portion of the revenue, indicating the importance of physical retail channels. Ensuring well-stocked and efficiently managed stores can enhance customer experience and sales.
-    ![Customer Insights](CustProd.png)
+    ![Customer Insights](images/CustProd.png)
 
 18. **Revenue from E-Commerce**: ₹240M 🛒
     - The growing online sales channel contributes significantly to revenue. Investing in e-commerce capabilities, such as a user-friendly website and efficient delivery systems, can further boost online sales.
 
 19. **Top Product - Prod040**: ₹469M revenue 🔝
     - Prod040 is the best-selling product, indicating high market demand. Ensuring sufficient inventory and promoting this product can drive continuous sales growth.
-    ![Product Insights](TopProd.png)
+    ![Product Insights](images/TopProd.png)
 
 20. **Top Product - Prod159**: ₹24M revenue 📈
     - Prod159 is a popular product with strong sales. Highlighting its features and benefits in marketing campaigns can further increase sales.
@@ -125,7 +125,7 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 23. **Sales Trend - January 2018**: ₹20M 📅
     - Sales peaked at ₹20M in January 2018, indicating a strong start to the year. Understanding the factors behind this spike can help in replicating similar success in the future.
-    ![Revenue and Profit Margin % over Time](SalesTrend.png)
+    ![Revenue and Profit Margin % over Time](images/SalesTrend.png)
 
 24. **Sales Trend - July 2018**: ₹30M 📈
     - July 2018 saw a growth in sales, reaching ₹30M. Identifying the driving forces behind this growth can help in strategic planning for future sales campaigns.
@@ -146,7 +146,7 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
     - Bhubaneshwar achieved the highest regional product sales with a 4.
 
 1% contribution. Understanding regional preferences can help in tailoring marketing strategies to specific markets.
-    ![Revenue by Product across Different Regions](RevenueByProduct.png)
+    ![Revenue by Product across Different Regions](images/RevenueByProduct.png)
 
 30. **Revenue by Product in Hyderabad**: 0.6% 🌆
     - Hyderabad's strong market performance, contributing 0.6% to product sales, highlights its importance. Continuous engagement with customers in this region can drive sustained sales growth.
@@ -186,7 +186,7 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 42. **Profit Margin by Market - Lucknow**: -0.5% 📉
     - Lucknow's negative profit margin indicates a need for strategy change. Addressing cost issues and optimizing pricing can improve profitability.
-    ![Profit Margin by Market](ProfitBYMarket.png)
+    ![Profit Margin by Market](images/ProfitBYMarket.png)
 
 43. **Profit Margin by Market - Kanpur**: 0.6% 📊
     - Kanpur's low profit margin of 0.6% suggests room for improvement. Enhancing operational efficiency and reducing costs can boost profit margins.
@@ -217,34 +217,34 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 ## Visualizations 📊
 
 ### Overview
-![Overview](Overview.png)
+![Overview](images/Overview.png)
 
 ### Key Insights
-![Key Insights](Key.png)
+![Key Insights](images/Key.png)
 
 ### Customer and Product Insights
-![Customer and Product Insights](CustProd.png)
+![Customer and Product Insights](images/CustProd.png)
 
 ### Profit Insights
-![Profit Insights](Profit.png)
+![Profit Insights](images/Profit.png)
 
 ### Performance Insights
-![Performance Insights](Performance.png)
+![Performance Insights](images/Performance.png)
 
 ### Sales Trend
-![Sales Trend](SalesTrend.png)
+![Sales Trend](images/SalesTrend.png)
 
 ### Top 10 Customers
-![Top 10 Customers](TopCust.png)
+![Top 10 Customers](images/TopCust.png)
 
 ### Top 10 Products
-![Top 10 Products](TopProd.png)
+![Top 10 Products](images/TopProd.png)
 
 ### Revenue by Market
-![Revenue by Market](RevenuebyMarket.png)
+![Revenue by Market](images/RevenuebyMarket.png)
 
 ### Revenue by Product
-![Revenue by Product](RevenueByProduct.png)
+![Revenue by Product](images/RevenueByProduct.png)
 
 ---
 
