@@ -50,12 +50,12 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 ## 50 Insights from Sales Data 📈
 
-![Total Revenue Visualization](images/SalesTrend.png)
+![Total Sales Quantity Visualization](images/Overview.png)
 
 1. **Total Revenue**: ₹985M 🤑
    - This figure provides a snapshot of overall sales performance. It serves as a key indicator of business health, reflecting the total income from sales activities. A high total revenue indicates robust sales operations and market demand.
 
-    ![Total Sales Quantity Visualization](images/Overview.png)
+    
 
 2. **Total Sales Quantity**: 2M units sold 📦
    - The total units sold give an idea of the sales volume and market reach. A high sales quantity coupled with high revenue indicates healthy sales and effective product distribution. This metric helps in understanding the volume of transactions and overall market demand.
@@ -63,11 +63,12 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 3. **Total Profit Margin**: ₹24.7M 💰
    - This shows the total profit margin, highlighting the profitability of operations. A positive profit margin suggests effective cost management and pricing strategies. Monitoring profit margins helps in ensuring the business remains financially healthy.
-   ![Total Profit Margin Visualization](images/Key.png)
+   
+![Revenue Contribution % by Market](images/RevenuebyMarket.png)
 
 4. **Revenue Contribution by Delhi NCR**: 52.8% 🏙️
    - With a contribution of 52.8%, Delhi NCR is the most significant market. This insight suggests that marketing and sales efforts in this region are paying off and should be continued or even increased. Focusing on high-performing markets can drive substantial revenue growth.
-   ![Revenue Contribution % by Market](images/RevenuebyMarket.png)
+   
 
 5. **Revenue Contribution by Mumbai**: 15.2% 🌆
    - Mumbai is the second-highest market, contributing 15.2% to the total revenue. This market's performance underscores its importance and potential for further growth. Analyzing regional performance helps in strategic decision-making for market expansion.
@@ -83,11 +84,12 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 9. **Revenue Contribution by Kochi**: 1.9% 🌴
    - Kochi, with a 1.9% revenue contribution, is a smaller but notable market. Strategies to boost sales in this region could include targeted marketing campaigns and promotional activities.
-
+     
+ ![Top 10 Customers by Revenue](images/TopCust.png)
+ 
 10. **Top Customer - Electricalsara Stores**: ₹41.33M revenue 🏅
     - Electricalsara Stores is the highest revenue-generating customer. Fostering strong relationships with top customers can lead to sustained revenue growth. Implementing loyalty programs and personalized marketing can enhance customer retention and satisfaction.
-    ![Top 10 Customers by Revenue](images/TopCust.png)
-
+   
 11. **Top Customer - Electricalslytical**: ₹4.96M revenue 🏆
     - Electricalslytical significantly contributes to the revenue, making them a valuable customer. Strategies to increase sales to top customers include offering exclusive deals and improving customer service.
 
@@ -106,17 +108,17 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 16. **Total Customers**: 38 🌐
     - Reflecting the size of the customer base, this metric helps in understanding market reach and potential. Growing the customer base through targeted acquisition strategies can drive overall business growth.
 
+![Product Insights](images/TopProd.png)
+
 17. **Revenue from Brick & Mortar**: ₹745M 🏢
     - Brick & Mortar stores generate a significant portion of the revenue, indicating the importance of physical retail channels. Ensuring well-stocked and efficiently managed stores can enhance customer experience and sales.
-    ![Customer Insights](images/CustProd.png)
 
 18. **Revenue from E-Commerce**: ₹240M 🛒
     - The growing online sales channel contributes significantly to revenue. Investing in e-commerce capabilities, such as a user-friendly website and efficient delivery systems, can further boost online sales.
 
 19. **Top Product - Prod040**: ₹469M revenue 🔝
     - Prod040 is the best-selling product, indicating high market demand. Ensuring sufficient inventory and promoting this product can drive continuous sales growth.
-    ![Product Insights](images/TopProd.png)
-
+    
 20. **Top Product - Prod159**: ₹24M revenue 📈
     - Prod159 is a popular product with strong sales. Highlighting its features and benefits in marketing campaigns can further increase sales.
 
@@ -125,11 +127,12 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 22. **Top Product - Prod018**: ₹16M revenue 📦
     - Prod018 is a significant contributor to sales. Continuous product improvements and promotional activities can sustain and grow its market share.
+      
+![Revenue and Profit Margin % over Time](images/SalesTrend.png)
 
 23. **Sales Trend - January 2018**: ₹20M 📅
     - Sales peaked at ₹20M in January 2018, indicating a strong start to the year. Understanding the factors behind this spike can help in replicating similar success in the future.
-    ![Revenue and Profit Margin % over Time](images/SalesTrend.png)
-
+    
 24. **Sales Trend - July 2018**: ₹30M 📈
     - July 2018 saw a growth in sales, reaching ₹30M. Identifying the driving forces behind this growth can help in strategic planning for future sales campaigns.
 
@@ -145,11 +148,11 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 28. **Sales Trend - July 2020**: ₹25M 📊
     - Sales stabilized in July 2020 at ₹25M. Consistent performance during this month suggests a return to normalcy and stable market conditions.
 
-29. **Revenue by Product in Bhubaneshwar**: 4.1% 🌟
-    - Bhubaneshwar achieved the highest regional product sales with a 4.
+![Revenue by Product across Different Regions](images/RevenueByProduct.png)
 
-1% contribution. Understanding regional preferences can help in tailoring marketing strategies to specific markets.
-    ![Revenue by Product across Different Regions](images/RevenueByProduct.png)
+29. **Revenue by Product in Bhubaneshwar**: 4.1% 🌟
+    - Bhubaneshwar achieved the highest regional product sales with a 4.1% contribution. Understanding regional preferences can help in tailoring marketing strategies to specific markets.
+    
 
 30. **Revenue by Product in Hyderabad**: 0.6% 🌆
     - Hyderabad's strong market performance, contributing 0.6% to product sales, highlights its importance. Continuous engagement with customers in this region can drive sustained sales growth.
@@ -186,10 +189,11 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 41. **Revenue by Product in Lucknow**: -0.5% 🚫
     - Lucknow's negative contribution of -0.5% suggests a significant issue. Investigating the reasons behind this performance can help in formulating corrective measures.
+      
+![Profit Margin by Market](images/ProfitBYMarket.png)
 
 42. **Profit Margin by Market - Lucknow**: -0.5% 📉
     - Lucknow's negative profit margin indicates a need for strategy change. Addressing cost issues and optimizing pricing can improve profitability.
-    ![Profit Margin by Market](images/ProfitBYMarket.png)
 
 43. **Profit Margin by Market - Kanpur**: 0.6% 📊
     - Kanpur's low profit margin of 0.6% suggests room for improvement. Enhancing operational efficiency and reducing costs can boost profit margins.
