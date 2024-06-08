@@ -52,7 +52,7 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 1. **Total Revenue**: ₹985M 🤑
    - This figure provides a snapshot of overall sales performance. It serves as a key indicator of business health, reflecting the total income from sales activities. A high total revenue indicates robust sales operations and market demand.
-   ![Total Revenue Visualization](Images/SalesTrend.png)
+   ![Total Revenue Visualization](images/SalesTrend.png)
 
 2. **Total Sales Quantity**: 2M units sold 📦
    - The total units sold give an idea of the sales volume and market reach. A high sales quantity coupled with high revenue indicates healthy sales and effective product distribution. This metric helps in understanding the volume of transactions and overall market demand.
