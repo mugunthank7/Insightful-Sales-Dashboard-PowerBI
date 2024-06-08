@@ -50,13 +50,16 @@ An advanced Power BI dashboard providing comprehensive sales insights. Analyze r
 
 ## 50 Insights from Sales Data 📈
 
+![Total Revenue Visualization](images/SalesTrend.png)
+
 1. **Total Revenue**: ₹985M 🤑
    - This figure provides a snapshot of overall sales performance. It serves as a key indicator of business health, reflecting the total income from sales activities. A high total revenue indicates robust sales operations and market demand.
-   ![Total Revenue Visualization](images/SalesTrend.png)
+
+    ![Total Sales Quantity Visualization](images/Overview.png)
 
 2. **Total Sales Quantity**: 2M units sold 📦
    - The total units sold give an idea of the sales volume and market reach. A high sales quantity coupled with high revenue indicates healthy sales and effective product distribution. This metric helps in understanding the volume of transactions and overall market demand.
-   ![Total Sales Quantity Visualization](images/Overview.png)
+
 
 3. **Total Profit Margin**: ₹24.7M 💰
    - This shows the total profit margin, highlighting the profitability of operations. A positive profit margin suggests effective cost management and pricing strategies. Monitoring profit margins helps in ensuring the business remains financially healthy.
