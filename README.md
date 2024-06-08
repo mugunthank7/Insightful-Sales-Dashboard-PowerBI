@@ -1,6 +1,4 @@
-### README for "Insightful-Sales-Dashboard-PowerBI"
 
----
 
 # Insightful-Sales-Dashboard-PowerBI
 
@@ -295,6 +293,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Thank you for exploring the **Insightful-Sales-Dashboard-PowerBI** project! Your feedback and contributions are greatly appreciated. 🚀📈
 
----
-
-This README file now provides detailed insights and explanations for each visualization, making it suitable for a Medium post or project documentation. Feel free to customize the paths to the visualizations and adjust any other details as needed.
